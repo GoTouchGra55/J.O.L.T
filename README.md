@@ -22,7 +22,7 @@ JOLT is a fully custom quadruped robot inspired by the [MIT Cheetah](https://new
 
 | Component    | Part                                  |
 | ------------ | ------------------------------------- |
-| MCU          | STM32-Based (Researching for options) |
+| MCU          | STM32-F405                            |
 | IMU          | ICM42688-P (SPI)                      |
 | Servo driver | PCA9685 (I2C, 16ch)                   |
 | Power        | Buck converter + LDO 3.3V             |

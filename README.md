@@ -22,7 +22,7 @@ JOLT is a fully custom quadruped robot inspired by the [MIT Cheetah](https://new
 
 | Component    | Part                                  |
 | ------------ | ------------------------------------- |
-| MCU          | STM32-F405                            |
+| MCU          | STM32-F405RGTx                            |
 | IMU          | ICM42688-P (SPI)                      |
 | Servo driver | PCA9685 (I2C, 16ch)                   |
 | Power        | Buck converter + LDO 3.3V             |
@@ -31,46 +31,18 @@ JOLT is a fully custom quadruped robot inspired by the [MIT Cheetah](https://new
 
 ### Frame
 
-- Material: SLS Nylon
+- Material: PLA
 - Design: MIT Cheetah inspired, triangular cutouts
 - Leg links: 130mm shaft-to-shaft (femur + tibia)
 - Internal tibia pivot slot in femur
 
 ---
 
-## Firmware 💻
-
-Written in C using STM32 HAL via STM32CubeIDE.
-
-```
-firmware/
-├── Core/
-│   ├── IK/      <- inverse kinematics
-│   ├── Gait/    <- walking patterns
-│   ├── IMU/     <- ICM42688 SPI driver
-│   └── Servo/   <- PCA9685 I2C driver
-└── Drivers/
-```
-
-## Repository Structure 📁
-
-```
-JOLT/
-├── hardware/
-│   ├── devboard/     ← KiCad schematic + PCB
-│   └── frame/        ← FreeCAD + STL files
-├── firmware/         ← STM32 HAL firmware
-├── docs/             ← build logs, photos
-└── README.md
-```
-
----
-
 ## Build Progress 🛠️
 
-- [x] Inverse kinematics — solved
-- [x] Tibia CAD — complete
-- [x] Femur CAD — complete
+- [x] Inverse kinematics 
+- [x] Tibia CAD
+- [x] Femur CAD
 - [ ] Hip bracket CAD
 - [ ] Body plate CAD
 - [ ] Devboard schematic

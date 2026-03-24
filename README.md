@@ -43,7 +43,7 @@ JOLT is a fully custom quadruped robot inspired by the [MIT Cheetah](https://new
 - [x] Inverse kinematics 
 - [x] Tibia CAD
 - [x] Femur CAD
-- [ ] Hip bracket CAD
+- [x] Hip bracket CAD
 - [ ] Body plate CAD
 - [ ] Devboard schematic
 - [ ] Devboard PCB layout

@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8c36a8a0-9db7-4e34-9aad-0168fd73e1df")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 86.36 93.98)
+		(size 62.23 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "04de4682-cc22-43e0-8e87-6dddad241fea")
+		(property "Sheetname" "Main"
+			(at 86.36 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Main.kicad_sch"
+			(at 86.36 149.1746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "JOLT_V1"
+				(path "/8c36a8a0-9db7-4e34-9aad-0168fd73e1df"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 27.94)
+		(size 64.77 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0b369512-f2b0-4b42-8e60-88472d5db3e6")
+		(property "Sheetname" "IMU"
+			(at 157.48 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IMU.kicad_sch"
+			(at 157.48 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "JOLT_V1"
+				(path "/8c36a8a0-9db7-4e34-9aad-0168fd73e1df"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 93.98)
+		(size 64.77 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "243901ae-5927-4f74-82ad-e9f0a980012d")
+		(property "Sheetname" "Power"
+			(at 157.48 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 157.48 149.1746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "JOLT_V1"
+				(path "/8c36a8a0-9db7-4e34-9aad-0168fd73e1df"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 27.94)
+		(size 62.23 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3b720dae-d471-40a4-9b0b-d8bd7c3f4464")
+		(property "Sheetname" "Servo_Controller"
+			(at 86.36 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Servo_Controller.kicad_sch"
+			(at 86.36 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "JOLT_V1"
+				(path "/8c36a8a0-9db7-4e34-9aad-0168fd73e1df"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

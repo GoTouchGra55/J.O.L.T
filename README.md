@@ -20,18 +20,18 @@ JOLT is a fully custom quadruped robot inspired by the [MIT Cheetah](https://new
 
 ### Custom Devboard
 
-| Component    | Part                                  |
-| ------------ | ------------------------------------- |
-| MCU          | STM32-F405RGTx                            |
-| IMU          | ICM42688-P (SPI)                      |
-| Servo driver | PCA9685 (I2C, 16ch)                   |
-| Power        | Buck converter + LDO 3.3V             |
-| Debug        | Onboard ST-Link                       |
-| Input        | XT-30 connector (2S/3S LiPo)          |
+| Component    | Part                         |
+| ------------ | ---------------------------- |
+| MCU          | STM32-F405RGTx               |
+| IMU          | ICM42688-P (SPI)             |
+| Servo driver | PCA9685 (I2C, 16ch)          |
+| Power        | LDO 5V + LDO 3.3V            |
+| Debug        | Onboard ST-Link              |
+| Input        | XT-30 connector (2S/3S LiPo) |
 
 ### Frame
 
-- Material: PLA
+- Material: Plastic
 - Design: MIT Cheetah inspired, triangular cutouts
 - Leg links: 130mm shaft-to-shaft (femur + tibia)
 - Internal tibia pivot slot in femur
@@ -40,13 +40,13 @@ JOLT is a fully custom quadruped robot inspired by the [MIT Cheetah](https://new
 
 ## Build Progress 🛠️
 
-- [x] Inverse kinematics 
+- [x] Inverse kinematics
 - [x] Tibia CAD
 - [x] Femur CAD
 - [x] Hip bracket CAD
-- [ ] Body plate CAD
-- [ ] Devboard schematic
-- [ ] Devboard PCB layout
+- [x] Body plate CAD
+- [x] Devboard schematic
+- [x] Devboard PCB layout
 - [ ] Firmware — IK implementation
 - [ ] Firmware — gait algorithm
 - [ ] Assembly + wiring

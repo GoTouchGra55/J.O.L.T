@@ -8,7 +8,9 @@
 
 JOLT is a fully custom quadruped robot inspired by the [MIT Cheetah](https://news.mit.edu/2019/mit-mini-cheetah-first-four-legged-robot-to-backflip-0304), designed and built from scratch. Every component — from the PCB to the frame to the firmware — was designed, sourced, and assembled independently.
 
-## Hardware ⚡
+![alt text](<assets/Screenshot from 2026-04-05 14-22-15.png>) ![alt text](<assets/Screenshot from 2026-04-05 14-22-29.png>) ![alt text](<assets/Screenshot from 2026-03-24 19-16-09.png>)
+
+## Hardware
 
 ### Actuators
 
@@ -23,10 +25,10 @@ JOLT is a fully custom quadruped robot inspired by the [MIT Cheetah](https://new
 | Component    | Part                         |
 | ------------ | ---------------------------- |
 | MCU          | STM32-F405RGTx               |
-| IMU          | ICM42688-P (SPI)             |
-| Servo driver | PCA9685 (I2C, 16ch)          |
+| IMU          | ICM42688-P                   |
+| Servo driver | PCA9685                      |
 | Power        | LDO 5V + LDO 3.3V            |
-| Debug        | Onboard ST-Link              |
+| Debug        | ST-Link                      |
 | Input        | XT-30 connector (2S/3S LiPo) |
 
 ### Frame
@@ -53,13 +55,13 @@ JOLT is a fully custom quadruped robot inspired by the [MIT Cheetah](https://new
 - [ ] Assembly + wiring
 - [ ] Walking test
 
-## License 🪪
+## License
 
 MIT License — see [LICENSE](LICENSE)
 
 ---
 
-## Author 👨
+## Author
 
 **Shaurya Tamang** .
 [GitHub](https://github.com/GoTouchGra55) .

@@ -24,21 +24,14 @@ JOLT is a fully custom quadruped robot inspired by the [MIT Cheetah](https://new
 
 | Component    | Part                         |
 | ------------ | ---------------------------- |
-| MCU          | STM32-F405RGTx               |
+| MCU          | STM32-F405RGT6               |
 | IMU          | ICM42688-P                   |
 | Servo driver | PCA9685                      |
 | Power        | LDO 5V + LDO 3.3V            |
 | Debug        | ST-Link                      |
-| Input        | XT-30 connector (2S/3S LiPo) |
+| Input        | XT-60 connector (2S/3S LiPo) |
 
-### Frame
-
-- Material: Plastic
-- Design: MIT Cheetah inspired, triangular cutouts
-- Leg links: 130mm shaft-to-shaft (femur + tibia)
-- Internal tibia pivot slot in femur
-
----
+[BOM](<assets/J.O.L.T (Joint Operated Legged Terrain-walker)-bom.csv>)
 
 ## Build Progress 🛠️
 

@@ -4,7 +4,7 @@
 
 ### Joint Operated Legged Terrain-walker
 
-> A fully custom quadruped robot featuring in-house electronics, mechanical design, and real-time control firmware.
+A fully custom quadruped robot featuring in-house electronics, mechanical design, and real-time control firmware.
 
 ---
 
@@ -37,22 +37,29 @@ The goal of this project is to explore the full robotics stack:
 ### 🧩 PCB Design (2-layer)
 
 #### Top
-![PCB Top](assets/PCB-Front.png)
+
+![PCB Top](assets/Top-View.jpg)
+
 #### Bottom
-![PCB Bottom](assets/PCB-Back.png)
+
+![PCB Bottom](assets/Bottom-View.jpg)
+
 #### Routing
-![PCB Routes](assets/PCB-Routes.png)
+
+![PCB Routes](assets/Routes.png)
 
 ### 🦾 Mechanical Design
 
 ### Leg
+
 ![CAD Leg](assets/Leg.png)
 
 ### Body with leg
+
 ![CAD Body 1](assets/IMG1.png)
 ![CAD Body 2](assets/IMG2.png)
 
-I didn't add the chassis design to the step files folder because, although it would definitely make the build more polished, it ate through my budget of **$300** in **TOTAL**. So, I'll be making the chassis out of local materials for now and print it later when I have money (*or when I get a 3d printer :3*)
+I didn't add the chassis design to the step files folder because, although it would definitely make the build more polished, it ate through my budget of **$300** in **TOTAL**. So, I'll be making the chassis out of local materials for now and print it later when I have money (_or when I get a 3d printer :3_)
 
 ---
 
@@ -90,34 +97,38 @@ An onboard IMU provides orientation and motion feedback.
 
 ### Custom Control Board
 
-| Component    | Part               |
-| ------------ | ------------------ |
-| MCU          | STM32F405RGT6      |
-| IMU          | ICM42688-P         |
-| Servo Driver | PCA9685            |
-| Power        | 5V + 3.3V LDO      |
-| Debug        | ST-Link            |
+| Component    | Part            |
+| ------------ | --------------- |
+| MCU          | STM32F405RGT6   |
+| IMU          | ICM42688-P      |
+| Servo Driver | PCA9685         |
+| Power        | 5V + 3.3V LDO   |
+| Debug        | ST-Link         |
 | Input        | XT-60 (2S LiPo) |
 
 ## 🛠 Assembly Guide
+
 ### Electronics
+
 1. Solder all SMD components first (MCU, IMU, passives)
 2. Solder larger components (connectors, headers)
 3. Verify power rails (5V, 3.3V) before powering MCU
 4. Flash firmware via ST-Link
-5. Connect servos and test individual joints  
+5. Connect servos and test individual joints
 
 ### Body
+
 1. Check parts for any sign of damage.
-2. Insert each servo into their respective slots and screw with suitable screws.
+2. Insert each servo into its respective slot and screw with suitable screws.
 3. Make wiring as untangled as possible (for servos)
 
 ---
 
-## ⚠️ Warning 
- 1. Double-check polarity of capacitors and power input before powering the board.
- 2.  Use a 2s LiPo battery to ensure safety of components
- 3. **DO NOT** expose the LiPo battery to high heat or poke the cells.  
+## ⚠️ Warning
+
+1. Double-check polarity of capacitors and power input before powering the board.
+2. Use a 2s LiPo battery to ensure safety of components
+3. **DO NOT** expose the LiPo battery to high heat or poke the cells.
 
 ---
 

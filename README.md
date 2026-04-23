@@ -34,6 +34,10 @@ Yes, I designed a custom STM32-based dev board, CAD, and will implement custom f
 
 ![JOLT CAD](assets/JOLT.png)
 
+Btw you might be wondering why there are so many triangular cutouts in the design. 
+Well first of all, it looks cool and secondly, I read an article about why triangles = **strong**. 
+I won't bother explaining the physics here but, you can do your own research on why that is.
+
 ---
 
 ## System Architecture

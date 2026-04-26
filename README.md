@@ -2,6 +2,13 @@
 
 # J.O.L.T ⚡
 
+![status](https://img.shields.io/badge/status-in%20development-orange)
+![type](https://img.shields.io/badge/type-quadruped-informational)
+![DOF](https://img.shields.io/badge/DOF-12-blue)
+![MCU](https://img.shields.io/badge/MCU-STM32F405RGT6-blue)
+![hardware](https://img.shields.io/badge/hardware-custom%20PCB-orange)
+![license](https://img.shields.io/badge/license-MIT-lightgrey)
+
 ## Overview
 
 JOLT (short for Joint Operated Legged Terrain walker) is my attempt at making a 12-DOF quadruped robot from scratch.

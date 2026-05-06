@@ -10,7 +10,7 @@ Yes, I designed a custom STM32-based dev board, CAD, and will implement custom f
 
 ---
 
-### PCB Design (4-layer)
+### PCB Design (2-layer)
 
 ![PCB Top](assets/Top-View.png)
 

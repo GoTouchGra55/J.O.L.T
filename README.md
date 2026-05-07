@@ -39,7 +39,7 @@ Well first of all, it looks cool and secondly, I read an article about why trian
 I won't bother explaining the physics here but, you can do your own research on why that is.
 
 *For those interested in the engineering principles, you can read more about why this geometry is superior for weight-to-strength ratios here: 
-[https://www.youtube.com/watch?v=Hn_iozUo9m4]*
+https://www.youtube.com/watch?v=Hn_iozUo9m4*
 
 ---
 
@@ -124,6 +124,11 @@ In progress...
 - [x] PCB
 - [ ] Assembly
 - [ ] Initial tests
+
+---
+
+## Bill of Materials
+See [BOM](BOM.csv)
 
 ---
 

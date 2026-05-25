@@ -6,7 +6,7 @@
 
 _Time spent: 4.5h_
 
-After I came to know that a guy from printing legion actually ships to my location, I made the chassis design too! Note that this was made a few days prior to the recent feedback. 
+After I came to know that a guy from printing legion actually ships to my location, I made the chassis design too! Note that this was made a few days prior to the recent feedback.
 
 Since the print bed couldn't fit my original chassis design, I separated it into two parts (Socket and Pin) which are screwed together.
 
@@ -28,7 +28,7 @@ _Time spent: 1h_
 
 So, I spent an hour moving the back copper compnents to the front plate according to my reviewer. It definitely looks a bit cluttered, but anything to save costs!
 
-Thats all. i don't really have much to say. I'll probably just redo the readme file too. 
+Thats all. i don't really have much to say. I'll probably just redo the readme file too.
 
 ![Screenshot from 2026-04-18 10-43-19](https://stasis.hackclub-assets.com/images/1776488457542-q2q3ee.png)
 
@@ -55,9 +55,9 @@ I added some silkscreen text for board description on the back silkscreen layer 
 
 # 4/4/2026 3 PM - Finish
 
-_Time spent: 5.833333333333333h_
+_Time spent: 5.5h_
 
-After a couple of weeks of work, I can finally say that JOLT is COMPLETE! (atleast in theory) now I can work on other projects and enhance my skills! 
+After a couple of weeks of work, I can finally say that JOLT is COMPLETE! (atleast in theory) now I can work on other projects and enhance my skills!
 
 ![Screenshot from 2026-04-04 21-13-22](https://stasis.hackclub-assets.com/images/1775317038998-ezce58.png)
 
@@ -145,7 +145,7 @@ I finally finished the schematics after a couple of days of work! Also assigned 
 
 _Time spent: 4.333333333333333h_
 
-I just cleaned up the schematics and also divided the file into 3 separate files. I also added a voltage regulator and bus connection to make the connections neat. 
+I just cleaned up the schematics and also divided the file into 3 separate files. I also added a voltage regulator and bus connection to make the connections neat.
 
 ![Screenshot from 2026-03-31 22-06-48](https://stasis.hackclub-assets.com/images/1774974142056-i7xlo5.png)
 
@@ -161,7 +161,7 @@ I just cleaned up the schematics and also divided the file into 3 separate files
 
 _Time spent: 3h_
 
-I read through the official stm32 guidelines and wired up the crystal, usb-c port and also the pca9685 chip (Pwm servo driver).   
+I read through the official stm32 guidelines and wired up the crystal, usb-c port and also the pca9685 chip (Pwm servo driver).
 
 ![Screenshot from 2026-03-30 21-09-20](https://stasis.hackclub-assets.com/images/1774884318149-27lmxb.png)
 
@@ -179,7 +179,7 @@ Currently, I've only connected the pca9685 chip and tomorrow I'll be adding the 
 
 _Time spent: 1h_
 
-I havent really been able to spend much time on stasis due to personal reasons but I hope to dedicate more time from tomorrow onwards. Anyways, I mapped out all the pins from the STM32 CubeMX software and also wired up the icm42688p chip. I learned that I could find the wiring structures by reading through the component docs! 
+I havent really been able to spend much time on stasis due to personal reasons but I hope to dedicate more time from tomorrow onwards. Anyways, I mapped out all the pins from the STM32 CubeMX software and also wired up the icm42688p chip. I learned that I could find the wiring structures by reading through the component docs!
 
 ![Screenshot from 2026-03-29 21-36-55](https://stasis.hackclub-assets.com/images/1774799561215-uk11j3.png)
 
@@ -205,7 +205,7 @@ I learned to use the stm32 cubemx software to map out the pins for the stuff I'l
 
 _Time spent: 3.75h_
 
-I was halfway through designing the chassis when I suddenly realized that I had a toy engineering set from when I was little. The 3d printed chassis would go out of budget so I decided to use that playset to create the chassis! But here's the incomplete chassis which I'll sadly no longer continue. 
+I was halfway through designing the chassis when I suddenly realized that I had a toy engineering set from when I was little. The 3d printed chassis would go out of budget so I decided to use that playset to create the chassis! But here's the incomplete chassis which I'll sadly no longer continue.
 
 ![Screenshot from 2026-03-25 19-25-35](https://stasis.hackclub-assets.com/images/1774446147968-i8js4w.png)
 
@@ -216,7 +216,7 @@ I was halfway through designing the chassis when I suddenly realized that I had 
 
 # 3/24/2026 1 PM - Hip Bracket
 
-_Time spent: 4h_
+_Time spent: 3h_
 
 After a lot of iterations, I finally present to you the HIP bracket! I pocketed out triangles because they are strong and also reduce printing costs. I also removed the screw threading since it was lagging my system a lot. But overall, I'm happy with how it turned out :). Only the chassis remains before I start work on the custom devboard!
 
@@ -229,7 +229,7 @@ After a lot of iterations, I finally present to you the HIP bracket! I pocketed 
 
 # 3/23/2026 11 AM - Finish Legs
 
-_Time spent: 5.5h_
+_Time spent: 5h_
 
 I finally finished the legs (Had to redo the files I deleted yesterday!). It turned out pretty nice for a newbie like me. Honestly, I didnt expect it to look this good.
 
@@ -244,7 +244,7 @@ I'm gonna start the work on the hip brackets now.
 
 # 3/22/2026 3 PM - Design iteration #4
 
-_Time spent: 6h_
+_Time spent: 5h_
 
 So, I just found out that my designed 3d parts would easily eat through the $300 budget.
 ![Screenshot from 2026-03-22 18-25-28](https://stasis.hackclub-assets.com/images/1774183288524-i2qau0.png)
@@ -284,7 +284,7 @@ Everything is just working out soo quick after I finalized the femur design. Any
 
 # 3/21/2026 2 PM - Femur design
 
-_Time spent: 6.25h_
+_Time spent: 5h_
 
 AFTER 4 DESIGN ITERATIONS, FINALLY I DID THE FEMUR! Still need to make spaces for the linkages and pivots.
 
@@ -301,7 +301,7 @@ P.S: I forgot to take the screenshots of previous iterations (Forgive me)
 
 _Time spent: 1h_
 
-Finally finished the tibia. Didnt really use datum planes since I still do not know how to use it but I learned a different trick! 
+Finally finished the tibia. Didnt really use datum planes since I still do not know how to use it but I learned a different trick!
 
 ![Screenshot from 2026-03-20 16-13-12](https://stasis.hackclub-assets.com/images/1774002583621-zwhesl.png)
 
@@ -342,7 +342,7 @@ I redesigned the tibia to a simpler version (for safety reasons as I'm a beginne
 
 _Time spent: 4h_
 
-Took some inspiration from the MIT Cheetah Quadruped. I really liked its sleek aesthetics. 
+Took some inspiration from the MIT Cheetah Quadruped. I really liked its sleek aesthetics.
 
 Also added triangles because they are strong and also look super cool (also partly because they'll reduce the overall weight and cost).
 
@@ -355,7 +355,7 @@ Also added triangles because they are strong and also look super cool (also part
 
 # 3/18/2026 2 PM - Test Rig Fix
 
-_Time spent: 0.2833333333333333h_
+_Time spent: 0.2h_
 
 I thought nothing of it first but upon testing out the test rig, I realized that I accidentally fixed the movement to only a single axis! (my bad) So I quickly fixed the error
 
@@ -368,9 +368,9 @@ I thought nothing of it first but upon testing out the test rig, I realized that
 
 # 3/18/2026 1 PM - Test frame and design finalization
 
-_Time spent: 2.5h_
+_Time spent: 1.75h_
 
-I just did the inverse kinematic equations and made a test frame using some spare mg995 servos that I had from a previous project. Also the design finalization took wayy too long. I'm gonna start work on the CAD now. 
+I just did the inverse kinematic equations and made a test frame using some spare mg995 servos that I had from a previous project. Also the design finalization took wayy too long. I'm gonna start work on the CAD now.
 
 ![20260318_191906](https://stasis.hackclub-assets.com/images/1773841042814-6eyg51.jpg)
 
@@ -383,7 +383,7 @@ Decided to go with a parallel linkage as it makes the robot legs less bulky and 
 
 # 3/17/2026 1 PM - Hardware research and approximations
 
-_Time spent: 2h_
+_Time spent: 1h_
 
 So, I decided to go on with a hybrid servo approach consisting of 4 35kg/cm servos for critical joint sections and 8 ~10kg/cm ones for the less critical parts to optimize cost and efficiency.
 

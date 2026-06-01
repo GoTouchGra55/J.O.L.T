@@ -8,7 +8,7 @@ _Time spent: 3h_
 
 After I came to know that a guy from printing legion actually ships to my location, I made the chassis design too! Note that this was made a few days prior to the recent feedback.
 
-Since the print bed couldn't fit my original chassis design, I separated it into two parts (Socket and Pin) which are screwed together. Again, I used triangular cutouts because they are strong + save costs on printing.
+Since the print bed couldn't fit my original chassis design, I separated it into two parts (Socket and Pin) which are screwed together.
 
 I will be updating my README file now.
 
@@ -17,7 +17,6 @@ I will be updating my README file now.
 ![Screenshot from 2026-04-21 21-43-47](https://stasis.hackclub-assets.com/images/1776932046183-41hdvf.png)
 
 ![Screenshot from 2026-04-21 21-43-37](https://stasis.hackclub-assets.com/images/1776932053172-lv0w54.png)
-
 
 # 4/18/2026 5 AM - Reworking some components!
 
@@ -42,7 +41,6 @@ I added some silkscreen text for board description on the back silkscreen layer 
 ![Screenshot from 2026-04-05 14-22-29](https://stasis.hackclub-assets.com/images/1775380873737-m09xn5.png)
 
 ![Screenshot from 2026-04-05 14-22-15](https://stasis.hackclub-assets.com/images/1775380874356-p08evo.png)
-
 
 # 4/4/2026 3 PM - Finish
 
@@ -87,6 +85,12 @@ I'm happy with the progress I made within an hour. Since this is my first custom
 _Time spent: 3h_
 
 Spent a solid few hours coming up with the design. Went through two iterations and I'm happy with this design. I should probably add 4 mounting holes instead of the current 2. So I'll probably make space to do it. Either way, I estimate the completion of this project within 2 days. Going back to work!
+
+![Screenshot from 2026-04-02 19-36-14](https://stasis.hackclub-assets.com/images/1775137964958-84q2jc.png)
+
+![Screenshot from 2026-04-02 19-33-17](https://stasis.hackclub-assets.com/images/1775137965423-yxcwss.png)
+
+![Screenshot from 2026-04-02 19-33-09](https://stasis.hackclub-assets.com/images/1775137965971-hk5zpg.png)
 
 
 # 4/1/2026 11 AM - Schematic Finish and Footprint Assignment
@@ -147,7 +151,7 @@ I learned to use the stm32 cubemx software to map out the pins for the stuff I'l
 
 # 3/25/2026 1 PM - Chassis design and finalization
 
-_Time spent: 1.5h_
+_Time spent: 3.25h_
 
 I was halfway through designing the chassis when I suddenly realized that I had a toy engineering set from when I was little. The 3d printed chassis would go out of budget so I decided to use that playset to create the chassis! But here's the incomplete chassis which I'll sadly no longer continue.
 
@@ -157,7 +161,7 @@ I was halfway through designing the chassis when I suddenly realized that I had 
 
 # 3/24/2026 1 PM - Hip Bracket
 
-_Time spent: 2.5h_
+_Time spent: 2h_
 
 After a lot of iterations, I finally present to you the HIP bracket! I pocketed out triangles because they are strong and also reduce printing costs. I also removed the screw threading since it was lagging my system a lot. But overall, I'm happy with how it turned out :). Only the chassis remains before I start work on the custom devboard!
 
@@ -180,7 +184,7 @@ I'm gonna start the work on the hip brackets now.
 
 # 3/22/2026 3 PM - Design iteration #4
 
-_Time spent: 3h_
+_Time spent: 2.75h_
 
 So, I just found out that my designed 3d parts would easily eat through the $300 budget.
 ![Screenshot from 2026-03-22 18-25-28](https://stasis.hackclub-assets.com/images/1774183288524-i2qau0.png)
@@ -212,7 +216,7 @@ Everything is just working out soo quick after I finalized the femur design. Any
 
 # 3/21/2026 2 PM - Femur design
 
-_Time spent: 5h_
+_Time spent: 3h_
 
 AFTER 4 DESIGN ITERATIONS, FINALLY I DID THE FEMUR! Still need to make spaces for the linkages and pivots.
 Took some inspiration from other robot dogs on youtube but I think this looks pretty neat. The first 2 were pretty much just disastrous bc I tried to make a femur with one of those long linkages rolling on top to move the tibia, but after the 3rd iteration, I thought that a simpler system would be so much better since this does not really use any fancy brushless motors. 
@@ -256,7 +260,7 @@ I redesigned the tibia to a simpler version (for safety reasons as I'm a beginne
 
 # 3/19/2026 9 AM - CAD
 
-_Time spent: 3.5h_
+_Time spent: 2h_
 
 Took some inspiration from the MIT Cheetah Quadruped. I really liked its sleek aesthetics.
 

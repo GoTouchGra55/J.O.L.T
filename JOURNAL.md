@@ -4,7 +4,7 @@
 
 # 4/23/2026 8 AM - Chassis design
 
-_Time spent: 4.5h_
+_Time spent: 4h_
 
 After I came to know that a guy from printing legion actually ships to my location, I made the chassis design too! Note that this was made a few days prior to the recent feedback.
 
@@ -18,9 +18,6 @@ I will be updating my README file now.
 
 ![Screenshot from 2026-04-21 21-43-37](https://stasis.hackclub-assets.com/images/1776932053172-lv0w54.png)
 
-![image](https://stasis.hackclub-assets.com/images/1776932038737-4pg3tg.png)
-![image](https://stasis.hackclub-assets.com/images/1776932046183-41hdvf.png)
-![image](https://stasis.hackclub-assets.com/images/1776932053172-lv0w54.png)
 
 # 4/18/2026 5 AM - Reworking some components!
 
@@ -36,10 +33,6 @@ Thats all. i don't really have much to say. I'll probably just redo the readme f
 
 ![Screenshot from 2026-04-18 10-43-37](https://stasis.hackclub-assets.com/images/1776488456609-nkv0z0.png)
 
-![image](https://stasis.hackclub-assets.com/images/1776488457542-q2q3ee.png)
-![image](https://stasis.hackclub-assets.com/images/1776488457225-fgil6t.png)
-![image](https://stasis.hackclub-assets.com/images/1776488456609-nkv0z0.png)
-
 # 4/5/2026 9 AM - Cleanup
 
 _Time spent: 1h_
@@ -50,8 +43,6 @@ I added some silkscreen text for board description on the back silkscreen layer 
 
 ![Screenshot from 2026-04-05 14-22-15](https://stasis.hackclub-assets.com/images/1775380874356-p08evo.png)
 
-![image](https://stasis.hackclub-assets.com/images/1775380873737-m09xn5.png)
-![image](https://stasis.hackclub-assets.com/images/1775380874356-p08evo.png)
 
 # 4/4/2026 3 PM - Finish
 
@@ -67,10 +58,6 @@ I basically had to re-route some previous routes to make way for the newer route
 
 ![Screenshot from 2026-04-04 21-11-35](https://stasis.hackclub-assets.com/images/1775317039654-q4kfdf.png)
 
-![image](https://stasis.hackclub-assets.com/images/1775317038998-ezce58.png)
-![image](https://stasis.hackclub-assets.com/images/1775317039658-ahphku.png)
-![image](https://stasis.hackclub-assets.com/images/1775317039654-q4kfdf.png)
-
 # 4/3/2026 5 PM - Routing
 
 _Time spent: 4h_
@@ -82,10 +69,6 @@ Can't believe that I managed to make the routing prettier than I anticipated. I 
 ![Screenshot from 2026-04-02 21-40-33](https://stasis.hackclub-assets.com/images/1775237260772-fh1yw1.png)
 
 ![Screenshot from 2026-04-03 23-17-51](https://stasis.hackclub-assets.com/images/1775237587007-o0dzos.png)
-
-![image](https://stasis.hackclub-assets.com/images/1775237260763-s3ox0s.png)
-![image](https://stasis.hackclub-assets.com/images/1775237260772-fh1yw1.png)
-![image](https://stasis.hackclub-assets.com/images/1775237587007-o0dzos.png)
 
 # 4/2/2026 4 PM - Routing
 
@@ -99,25 +82,12 @@ I'm happy with the progress I made within an hour. Since this is my first custom
 
 ![Screenshot from 2026-04-02 21-39-07](https://stasis.hackclub-assets.com/images/1775145392430-xv1sxv.png)
 
-![image](https://stasis.hackclub-assets.com/images/1775145391810-zp6akd.png)
-![image](https://stasis.hackclub-assets.com/images/1775145392411-wltcjp.png)
-![image](https://stasis.hackclub-assets.com/images/1775145392430-xv1sxv.png)
-
 # 4/2/2026 1 PM - PCB design and routing
 
 _Time spent: 3h_
 
 Spent a solid few hours coming up with the design. Went through two iterations and I'm happy with this design. I should probably add 4 mounting holes instead of the current 2. So I'll probably make space to do it. Either way, I estimate the completion of this project within 2 days. Going back to work!
 
-![Screenshot from 2026-04-02 19-36-14](https://stasis.hackclub-assets.com/images/1775137964958-84q2jc.png)
-
-![Screenshot from 2026-04-02 19-33-17](https://stasis.hackclub-assets.com/images/1775137965423-yxcwss.png)
-
-![Screenshot from 2026-04-02 19-33-09](https://stasis.hackclub-assets.com/images/1775137965971-hk5zpg.png)
-
-![image](https://stasis.hackclub-assets.com/images/1775137964958-84q2jc.png)
-![image](https://stasis.hackclub-assets.com/images/1775137965423-yxcwss.png)
-![image](https://stasis.hackclub-assets.com/images/1775137965971-hk5zpg.png)
 
 # 4/1/2026 11 AM - Schematic Finish and Footprint Assignment
 
@@ -125,21 +95,6 @@ _Time spent: 3h_
 
 I finally finished the schematics after a couple of days of work! Also assigned the footprints. I added some bounding boxes on the power schematics but didnt on other bc I was pretty lazy to do it. GOsh the erc errors went crazy because I placed local labels instead of global ones despite using multiple sheets but it was a quick fix!
 
-![Screenshot from 2026-04-01 16-47-18](https://stasis.hackclub-assets.com/images/1775041431378-xhgepv.png)
-
-![Screenshot from 2026-04-01 16-47-34](https://stasis.hackclub-assets.com/images/1775041429835-p4br1y.png)
-
-![Screenshot from 2026-04-01 15-57-46](https://stasis.hackclub-assets.com/images/1775041431357-4plbrw.png)
-
-![Screenshot from 2026-04-01 15-57-19](https://stasis.hackclub-assets.com/images/1775041431114-0buou7.png)
-
-![Screenshot from 2026-04-01 15-56-54](https://stasis.hackclub-assets.com/images/1775041430895-9w4908.png)
-
-![image](https://stasis.hackclub-assets.com/images/1775041431378-xhgepv.png)
-![image](https://stasis.hackclub-assets.com/images/1775041429835-p4br1y.png)
-![image](https://stasis.hackclub-assets.com/images/1775041431357-4plbrw.png)
-![image](https://stasis.hackclub-assets.com/images/1775041431114-0buou7.png)
-![image](https://stasis.hackclub-assets.com/images/1775041430895-9w4908.png)
 
 # 3/31/2026 3 PM - Schematics
 
@@ -152,10 +107,6 @@ I just cleaned up the schematics and also divided the file into 3 separate files
 ![Screenshot from 2026-03-31 21-31-45](https://stasis.hackclub-assets.com/images/1774972073819-kqcfc7.png)
 
 ![Screenshot from 2026-03-31 21-31-36](https://stasis.hackclub-assets.com/images/1774972075162-tn1ajk.png)
-
-![image](https://stasis.hackclub-assets.com/images/1774974142056-i7xlo5.png)
-![image](https://stasis.hackclub-assets.com/images/1774972073819-kqcfc7.png)
-![image](https://stasis.hackclub-assets.com/images/1774972075162-tn1ajk.png)
 
 # 3/30/2026 4 PM - Schematics
 
@@ -171,9 +122,6 @@ I read through the official stm32 guidelines and wired up the crystal, usb-c por
 
 Currently, I've only connected the pca9685 chip and tomorrow I'll be adding the PDU (Power Distribution Unit).
 
-![image](https://stasis.hackclub-assets.com/images/1774884318149-27lmxb.png)
-![image](https://stasis.hackclub-assets.com/images/1774886819877-g33qsh.png)
-![image](https://stasis.hackclub-assets.com/images/1774886820009-hwtrct.png)
 
 # 3/29/2026 3 PM - Schematics
 
@@ -185,8 +133,6 @@ I havent really been able to spend much time on stasis due to personal reasons b
 
 ![Screenshot from 2026-03-29 21-37-01](https://stasis.hackclub-assets.com/images/1774799561028-o5xnrr.png)
 
-![image](https://stasis.hackclub-assets.com/images/1774799561215-uk11j3.png)
-![image](https://stasis.hackclub-assets.com/images/1774799561028-o5xnrr.png)
 
 # 3/28/2026 2 PM - Micro-controller pinout mapping
 
@@ -198,21 +144,16 @@ I learned to use the stm32 cubemx software to map out the pins for the stuff I'l
 
 ![Screenshot from 2026-03-28 20-20-20](https://stasis.hackclub-assets.com/images/1774708998643-1uq2uy.png)
 
-![image](https://stasis.hackclub-assets.com/images/1774708998414-wzduhl.png)
-![image](https://stasis.hackclub-assets.com/images/1774708998643-1uq2uy.png)
 
 # 3/25/2026 1 PM - Chassis design and finalization
 
-_Time spent: 3.75h_
+_Time spent: 3.25h_
 
 I was halfway through designing the chassis when I suddenly realized that I had a toy engineering set from when I was little. The 3d printed chassis would go out of budget so I decided to use that playset to create the chassis! But here's the incomplete chassis which I'll sadly no longer continue.
 
 ![Screenshot from 2026-03-25 19-25-35](https://stasis.hackclub-assets.com/images/1774446147968-i8js4w.png)
 
 ![Screenshot from 2026-03-25 19-25-31](https://stasis.hackclub-assets.com/images/1774446148135-zyr5vi.png)
-
-![image](https://stasis.hackclub-assets.com/images/1774446147968-i8js4w.png)
-![image](https://stasis.hackclub-assets.com/images/1774446148135-zyr5vi.png)
 
 # 3/24/2026 1 PM - Hip Bracket
 
@@ -224,14 +165,12 @@ After a lot of iterations, I finally present to you the HIP bracket! I pocketed 
 
 ![Screenshot from 2026-03-24 19-16-09](https://stasis.hackclub-assets.com/images/1774359141112-vj4mtu.png)
 
-![image](https://stasis.hackclub-assets.com/images/1774359140909-zcxq68.png)
-![image](https://stasis.hackclub-assets.com/images/1774359141112-vj4mtu.png)
 
 # 3/23/2026 11 AM - Finish Legs
 
-_Time spent: 5h_
+_Time spent: 4h_
 
-I finally finished the legs (Had to redo the files I deleted yesterday!). It turned out pretty nice for a newbie like me. Honestly, I didnt expect it to look this good.
+I finally finished the legs (Had to redo the files I deleted yesterday!). It turned out pretty nice for a newbie like me. Honestly, I didnt expect it to look this good. Damn remaking the files does take a long amount of time. 
 
 ![Screenshot from 2026-03-23 17-08-31](https://stasis.hackclub-assets.com/images/1774265206531-7mev1n.png)
 
@@ -239,12 +178,9 @@ I'm gonna start the work on the hip brackets now.
 
 ![Screenshot from 2026-03-23 20-48-13](https://stasis.hackclub-assets.com/images/1774278207322-l8ytya.png)
 
-![image](https://stasis.hackclub-assets.com/images/1774265206531-7mev1n.png)
-![image](https://stasis.hackclub-assets.com/images/1774278207322-l8ytya.png)
-
 # 3/22/2026 3 PM - Design iteration #4
 
-_Time spent: 5h_
+_Time spent: 4h_
 
 So, I just found out that my designed 3d parts would easily eat through the $300 budget.
 ![Screenshot from 2026-03-22 18-25-28](https://stasis.hackclub-assets.com/images/1774183288524-i2qau0.png)
@@ -253,22 +189,18 @@ But if I remove the grips and the tibia, the cost is greatly reduced.
 ![Screenshot from 2026-03-22 18-25-17](https://stasis.hackclub-assets.com/images/1774183288953-qyu3q6.png)
 
 So I decided to go with this sort of leg design (Credit: [Aaed Musa](https://www.youtube.com/watch?v=VhUvoV5XyRg)) where I would 3d print the femur but for the tibia I'd use black markers as they're cheap, light-weight, and strong.
+
 ![Screenshot from 2026-03-22 18-19-25](https://stasis.hackclub-assets.com/images/1774183289166-blbkr0.png)
 
 ![Screenshot from 2026-03-22 20-55-23](https://stasis.hackclub-assets.com/images/1774192264130-huybo1.png)
 
-P.S: An employee/volunteer just told me that I can split the project into two separate ones if it met the required complexity. I REGRET DELETING THE OG FILE. Thankfully I have my tibia file. But just give me a break. I'm done for the day. Not working anymore (;-;)
-
-![image](https://stasis.hackclub-assets.com/images/1774183288524-i2qau0.png)
-![image](https://stasis.hackclub-assets.com/images/1774183288953-qyu3q6.png)
-![image](https://stasis.hackclub-assets.com/images/1774183289166-blbkr0.png)
-![image](https://stasis.hackclub-assets.com/images/1774192264130-huybo1.png)
+P.S: An employee just told me that I can split the project into two separate ones if it met the required complexity. I REGRET DELETING THE OG FILE. Thankfully I have my tibia file. But just give me a break. I'm done for the day. Not working anymore (;-;)
 
 # 3/21/2026 4 PM - Femur Refinements
 
 _Time spent: 1h_
 
-Just finished refining the femur. I think it looks really nice. I had to pocket out the bottom part of the femur for clearance reasons since I'm not using the [clevis joint](https://en.wikipedia.org/wiki/Clevis_fastener).
+Just finished refining the femur. I think it looks really nice. I had to pocket out the bottom part of the femur for clearance reasons since I'm not using the [clevis joint](https://en.wikipedia.org/wiki/Clevis_fastener). Not much to elaborate here.
 
 ![Screenshot from 2026-03-21 21-49-23](https://stasis.hackclub-assets.com/images/1774109384677-dproot.png)
 
@@ -278,15 +210,12 @@ Everything is just working out soo quick after I finalized the femur design. Any
 
 ![Screenshot from 2026-03-21 20-15-14](https://stasis.hackclub-assets.com/images/1774109385241-425lnx.png)
 
-![image](https://stasis.hackclub-assets.com/images/1774109384677-dproot.png)
-![image](https://stasis.hackclub-assets.com/images/1774109384685-dnwrvk.png)
-![image](https://stasis.hackclub-assets.com/images/1774109385241-425lnx.png)
-
 # 3/21/2026 2 PM - Femur design
 
 _Time spent: 5h_
 
 AFTER 4 DESIGN ITERATIONS, FINALLY I DID THE FEMUR! Still need to make spaces for the linkages and pivots.
+Took some inspiration from other robot dogs on youtube but I think this looks pretty neat. The first 2 were pretty much just disastrous bc I tried to make a femur with one of those long linkages rolling on top to move the tibia, but after the 3rd iteration, I thought that a simpler system would be so much better since this does not really use any fancy brushless motors. 
 
 ![Screenshot from 2026-03-21 20-15-14](https://stasis.hackclub-assets.com/images/1774104010486-axgpas.png)
 
@@ -294,14 +223,11 @@ AFTER 4 DESIGN ITERATIONS, FINALLY I DID THE FEMUR! Still need to make spaces fo
 
 P.S: I forgot to take the screenshots of previous iterations (Forgive me)
 
-![image](https://stasis.hackclub-assets.com/images/1774104010486-axgpas.png)
-![image](https://stasis.hackclub-assets.com/images/1774104011043-il1asg.png)
-
 # 3/20/2026 10 AM - Tibia Final
 
 _Time spent: 1h_
 
-Finally finished the tibia. Didnt really use datum planes since I still do not know how to use it but I learned a different trick!
+Finally finished the tibia. Didn't really use datum planes since, I still do not know how to use it; but I learned a different trick! That is to make a sketch on a normal plane and then translate it to a specific coordinate in space THEN use the pocket operation to remove material from curved surfaces.
 
 ![Screenshot from 2026-03-20 16-13-12](https://stasis.hackclub-assets.com/images/1774002583621-zwhesl.png)
 
@@ -309,34 +235,24 @@ Now I'll start work on the femur.
 
 ![Screenshot from 2026-03-20 16-13-08](https://stasis.hackclub-assets.com/images/1774002583634-5z8yp9.png)
 
-![image](https://stasis.hackclub-assets.com/images/1774002583621-zwhesl.png)
-![image](https://stasis.hackclub-assets.com/images/1774002583634-5z8yp9.png)
-
 # 3/20/2026 8 AM - Design iteration #3
 
 _Time spent: 2h_
 
-Ok I promise this is the last time that I'll touch the tibia design. Decided to go minimalistic. Just learning datum planes to make the thickness more dynamic.
+Ok I promise this is the last time that I'll touch the tibia design. Decided to go minimalistic. Just learning datum planes to make the thickness more dynamic. Man freecad is a pain in the bum. Ig I should just switch to onshape. But ehh I'll just stick to this painful software for now.
 
 ![Screenshot from 2026-03-20 14-32-47](https://stasis.hackclub-assets.com/images/1773996734209-ykdnzm.png)
 
 ![Screenshot from 2026-03-20 14-32-39](https://stasis.hackclub-assets.com/images/1773996734231-58aolr.png)
 
-![image](https://stasis.hackclub-assets.com/images/1773996734209-ykdnzm.png)
-![image](https://stasis.hackclub-assets.com/images/1773996734231-58aolr.png)
-
 # 3/19/2026 4 PM - Tibia Redesign
 
-_Time spent: 3h_
+_Time spent: 2h_
 
-I redesigned the tibia to a simpler version (for safety reasons as I'm a beginner to cad). The rest is pretty much the same. I cant believe I spent this long redesigning a stupid leg.
+I redesigned the tibia to a simpler version (for safety reasons as I'm a beginner to cad). The rest is pretty much the same. I cant believe I spent this long redesigning a stupid leg. It's partly because I was busy fighting freecad errors tho-
 
 ![Screenshot from 2026-03-19 21-46-54](https://stasis.hackclub-assets.com/images/1773936298370-51jke7.png)
-
 ![Screenshot from 2026-03-19 21-46-42](https://stasis.hackclub-assets.com/images/1773936298403-dkox2z.png)
-
-![image](https://stasis.hackclub-assets.com/images/1773936298370-51jke7.png)
-![image](https://stasis.hackclub-assets.com/images/1773936298403-dkox2z.png)
 
 # 3/19/2026 9 AM - CAD
 
@@ -344,14 +260,11 @@ _Time spent: 4h_
 
 Took some inspiration from the MIT Cheetah Quadruped. I really liked its sleek aesthetics.
 
-Also added triangles because they are strong and also look super cool (also partly because they'll reduce the overall weight and cost).
+Also added triangles because they are strong and also look super cool (also partly because they'll reduce the overall weight and cost). I also think that this makes it seems like an actual cheetah's leg due to the sleekness.
 
 ![Screenshot from 2026-03-19 15-13-14](https://stasis.hackclub-assets.com/images/1773912568918-v0agkb.png)
 
 ![Screenshot from 2026-03-19 14-55-38](https://stasis.hackclub-assets.com/images/1773912569826-o0yyq4.png)
-
-![image](https://stasis.hackclub-assets.com/images/1773912568918-v0agkb.png)
-![image](https://stasis.hackclub-assets.com/images/1773912569826-o0yyq4.png)
 
 # 3/18/2026 2 PM - Test Rig Fix
 
@@ -362,9 +275,6 @@ I thought nothing of it first but upon testing out the test rig, I realized that
 ![20260318_194203](https://stasis.hackclub-assets.com/images/1773842371070-455cnz.jpg)
 
 ![20260318_194154](https://stasis.hackclub-assets.com/images/1773842372976-y6f3pq.jpg)
-
-![image](https://stasis.hackclub-assets.com/images/1773842371070-455cnz.jpg)
-![image](https://stasis.hackclub-assets.com/images/1773842372976-y6f3pq.jpg)
 
 # 3/18/2026 1 PM - Test frame and design finalization
 
@@ -377,9 +287,6 @@ I just did the inverse kinematic equations and made a test frame using some spar
 Decided to go with a parallel linkage as it makes the robot legs less bulky and also looks pretty cool imo. This one is definitely the final design
 
 ![20260318_191950](https://stasis.hackclub-assets.com/images/1773841038367-oukrak.jpg)
-
-![image](https://stasis.hackclub-assets.com/images/1773841042814-6eyg51.jpg)
-![image](https://stasis.hackclub-assets.com/images/1773841038367-oukrak.jpg)
 
 # 3/17/2026 1 PM - Hardware research and approximations
 
@@ -394,7 +301,3 @@ So, I decided to go on with a hybrid servo approach consisting of 4 35kg/cm serv
 Also did all the weight calculations and finalized the link lengths.
 
 ![20260317_184339](https://stasis.hackclub-assets.com/images/1773753121209-ti11pi.jpg)
-
-![image](https://stasis.hackclub-assets.com/images/1773743110905-kp9rep.png)
-![image](https://stasis.hackclub-assets.com/images/1773743111096-h0f2a0.png)
-![image](https://stasis.hackclub-assets.com/images/1773753121209-ti11pi.jpg)

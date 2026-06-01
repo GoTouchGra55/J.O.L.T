@@ -99,6 +99,7 @@ _Time spent: 3h_
 
 I finally finished the schematics after a couple of days of work! Also assigned the footprints. I added some bounding boxes on the power schematics but didnt on other bc I was pretty lazy to do it. GOsh the erc errors went crazy because I placed local labels instead of global ones despite using multiple sheets but it was a quick fix!
 
+![Footprint](<Screenshot from 2026-06-01 14-38-35.png>)
 
 # 3/31/2026 3 PM - Schematics
 

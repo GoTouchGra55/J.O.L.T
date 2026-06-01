@@ -4,11 +4,11 @@
 
 # 4/23/2026 8 AM - Chassis design
 
-_Time spent: 4h_
+_Time spent: 3h_
 
 After I came to know that a guy from printing legion actually ships to my location, I made the chassis design too! Note that this was made a few days prior to the recent feedback.
 
-Since the print bed couldn't fit my original chassis design, I separated it into two parts (Socket and Pin) which are screwed together.
+Since the print bed couldn't fit my original chassis design, I separated it into two parts (Socket and Pin) which are screwed together. Again, I used triangular cutouts because they are strong + save costs on printing.
 
 I will be updating my README file now.
 
@@ -147,7 +147,7 @@ I learned to use the stm32 cubemx software to map out the pins for the stuff I'l
 
 # 3/25/2026 1 PM - Chassis design and finalization
 
-_Time spent: 3.25h_
+_Time spent: 1.5h_
 
 I was halfway through designing the chassis when I suddenly realized that I had a toy engineering set from when I was little. The 3d printed chassis would go out of budget so I decided to use that playset to create the chassis! But here's the incomplete chassis which I'll sadly no longer continue.
 
@@ -157,7 +157,7 @@ I was halfway through designing the chassis when I suddenly realized that I had 
 
 # 3/24/2026 1 PM - Hip Bracket
 
-_Time spent: 3h_
+_Time spent: 2.5h_
 
 After a lot of iterations, I finally present to you the HIP bracket! I pocketed out triangles because they are strong and also reduce printing costs. I also removed the screw threading since it was lagging my system a lot. But overall, I'm happy with how it turned out :). Only the chassis remains before I start work on the custom devboard!
 
@@ -168,7 +168,7 @@ After a lot of iterations, I finally present to you the HIP bracket! I pocketed 
 
 # 3/23/2026 11 AM - Finish Legs
 
-_Time spent: 4h_
+_Time spent: 3h_
 
 I finally finished the legs (Had to redo the files I deleted yesterday!). It turned out pretty nice for a newbie like me. Honestly, I didnt expect it to look this good. Damn remaking the files does take a long amount of time. 
 
@@ -180,7 +180,7 @@ I'm gonna start the work on the hip brackets now.
 
 # 3/22/2026 3 PM - Design iteration #4
 
-_Time spent: 4h_
+_Time spent: 3h_
 
 So, I just found out that my designed 3d parts would easily eat through the $300 budget.
 ![Screenshot from 2026-03-22 18-25-28](https://stasis.hackclub-assets.com/images/1774183288524-i2qau0.png)
@@ -256,7 +256,7 @@ I redesigned the tibia to a simpler version (for safety reasons as I'm a beginne
 
 # 3/19/2026 9 AM - CAD
 
-_Time spent: 4h_
+_Time spent: 3.5h_
 
 Took some inspiration from the MIT Cheetah Quadruped. I really liked its sleek aesthetics.
 

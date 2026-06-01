@@ -161,7 +161,7 @@ I was halfway through designing the chassis when I suddenly realized that I had 
 
 # 3/24/2026 1 PM - Hip Bracket
 
-_Time spent: 2h_
+_Time spent: 2.5h_
 
 After a lot of iterations, I finally present to you the HIP bracket! I pocketed out triangles because they are strong and also reduce printing costs. I also removed the screw threading since it was lagging my system a lot. But overall, I'm happy with how it turned out :). Only the chassis remains before I start work on the custom devboard!
 
@@ -172,7 +172,7 @@ After a lot of iterations, I finally present to you the HIP bracket! I pocketed 
 
 # 3/23/2026 11 AM - Finish Legs
 
-_Time spent: 3h_
+_Time spent: 3.25h_
 
 I finally finished the legs (Had to redo the files I deleted yesterday!). It turned out pretty nice for a newbie like me. Honestly, I didnt expect it to look this good. Damn remaking the files does take a long amount of time. 
 
@@ -202,7 +202,7 @@ P.S: An employee just told me that I can split the project into two separate one
 
 # 3/21/2026 4 PM - Femur Refinements
 
-_Time spent: 1h_
+_Time spent: 1.25h_
 
 Just finished refining the femur. I think it looks really nice. I had to pocket out the bottom part of the femur for clearance reasons since I'm not using the [clevis joint](https://en.wikipedia.org/wiki/Clevis_fastener). Not much to elaborate here.
 
@@ -216,7 +216,7 @@ Everything is just working out soo quick after I finalized the femur design. Any
 
 # 3/21/2026 2 PM - Femur design
 
-_Time spent: 3h_
+_Time spent: 3.75h_
 
 AFTER 4 DESIGN ITERATIONS, FINALLY I DID THE FEMUR! Still need to make spaces for the linkages and pivots.
 Took some inspiration from other robot dogs on youtube but I think this looks pretty neat. The first 2 were pretty much just disastrous bc I tried to make a femur with one of those long linkages rolling on top to move the tibia, but after the 3rd iteration, I thought that a simpler system would be so much better since this does not really use any fancy brushless motors. 

@@ -128,22 +128,26 @@ In progress...
 ---
 
 ## Bill of Materials
-See [BOM](BOM.csv)
 
 | Name | Purpose | Quantity | Total Cost (USD) | Distributor |
 |------|---------|---------:|-----------------:|------------|
-| M4 brass inserts | To secure the M4 screws | 1 | 5.74 | Daraz Nepal |
+| M4 brass inserts | To secure the M4 screws | 1 | 4.95 | Daraz Nepal |
 | Metal Servo Horns | To connect servo with the linkages | 1 | 9.41 | Daraz Nepal |
-| Multimeter | To check for any short-circuits | 1 | 2.25 | Daraz Nepal |
+| Bearings | To ensure smooth movement | 1 | 5.86 | Daraz Nepal |
+| Multimeter | To check for any short-circuits | 1 | 6.25 | Daraz Nepal |
 | 0201 Resistors | Used in circuit | 1 | 4.73 | Daraz Nepal |
-| Devboard PCB | The brains and the body of the quadruped | 1 | 106.66 | JLCPCB |
-| ST-Link V2 | For debugging purposes | 1 | 4.12 | Daraz Nepal |
+| Devboard PCB | The brains and the body of the quadruped | 1 | 111.15 | JLCPCB |
+| ST-Link V2 | For debugging purposes | 1 | 9.48 | Daraz Nepal |
 | Male Header Pins | For servos and aux ports | 1 | 0.57 | Daraz Nepal |
-| Female Header Pins | For GPIO Pins | 1 | 0.81 | Daraz Nepal |
+| Female Header Pins | For GPIO pins | 1 | 0.81 | Daraz Nepal |
 | XT-60 Connector | To connect the battery to the board | 1 | 0.56 | Daraz Nepal |
-| M4 screws | To secure the components | 1 | 4.88 | Daraz Nepal |
-| MG996R | To move the joints of the robot | 12 | 56.52 | Daraz Nepal |
-| **Total** |  |  | **196.25** |  |
+| M4 Screws | To secure the components | 1 | 3.96 | Daraz Nepal |
+| MG996R Servos | To move the joints of the robot | 12 | 41.16 | Daraz Nepal |
+| Capacitor | Used in circuit | 1 | 0.66 | Daraz Nepal |
+| Tweezers | To hold tiny components | 1 | 2.62 | Daraz Nepal |
+| Helping Hand with Magnifier | For soldering and assembly | 1 | 11.17 | Daraz Nepal |
+| Shipping | Shipping costs | 1 | 12.16 | Various |
+| **Total** |  |  | **219.58** |  |
 
 ---
 

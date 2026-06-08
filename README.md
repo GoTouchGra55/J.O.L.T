@@ -144,8 +144,8 @@ In progress...
 | M4 Screws | To secure the components | 1 | 3.96 | Daraz Nepal |
 | MG996R Servos | To move the joints of the robot | 12 | 41.16 | Daraz Nepal |
 | Capacitor | Used in circuit | 1 | 0.66 | Daraz Nepal |
-| Tweezers | To hold tiny components | 1 | 2.62 | Daraz Nepal |
-| Helping Hand with Magnifier | For soldering and assembly | 1 | 11.17 | Daraz Nepal |
+| Tweezers | To hold tiny 0201 components | 1 | 2.62 | Daraz Nepal |
+| Helping Hand with Magnifier | For soldering and assembly of the microscopic 0201 components | 1 | 11.17 | Daraz Nepal |
 | Shipping | Shipping costs | 1 | 12.16 | Various |
 | **Total** |  |  | **219.58** |  |
 

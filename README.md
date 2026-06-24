@@ -131,23 +131,24 @@ In progress...
 
 | Name | Purpose | Quantity | Total Cost (USD) | Distributor |
 |------|---------|---------:|-----------------:|------------|
-| M4 brass inserts | To secure the M4 screws | 1 | 4.95 | Daraz Nepal |
-| Metal Servo Horns | To connect servo with the linkages | 1 | 9.41 | Daraz Nepal |
+| Brass inserts | To secure the screws | 1 | 8.93 | Daraz Nepal |
+| Metal Servo Horns | To connect servo with the linkages | 1 | 9.22 | Daraz Nepal |
 | Bearings | To ensure smooth movement | 1 | 5.86 | Daraz Nepal |
-| Multimeter | To check for any short-circuits | 1 | 6.25 | Daraz Nepal |
-| 0201 Resistors | Used in circuit | 1 | 4.73 | Daraz Nepal |
-| Devboard PCB | The brains and the body of the quadruped | 1 | 111.15 | JLCPCB |
-| ST-Link V2 | For debugging purposes | 1 | 9.48 | Daraz Nepal |
-| Male Header Pins | For servos and aux ports | 1 | 0.57 | Daraz Nepal |
-| Female Header Pins | For GPIO pins | 1 | 0.81 | Daraz Nepal |
-| XT-60 Connector | To connect the battery to the board | 1 | 0.56 | Daraz Nepal |
-| M4 Screws | To secure the components | 1 | 3.96 | Daraz Nepal |
-| MG996R Servos | To move the joints of the robot | 12 | 41.16 | Daraz Nepal |
-| Capacitor | Used in circuit | 1 | 0.66 | Daraz Nepal |
-| Tweezers | To hold tiny 0201 components | 1 | 2.62 | Daraz Nepal |
-| Helping Hand with Magnifier | For soldering and assembly of the microscopic 0201 components | 1 | 11.17 | Daraz Nepal |
-| Shipping | Shipping costs | 1 | 12.16 | Various |
-| **Total** |  |  | **219.58** |  |
+| 0201 Resistors | Used in circuit | 1 | 3.97 | Daraz Nepal |
+| Devboard PCB | The brains and the body of the quadruped | 1 | 131.77 | JLCPCB |
+| ST-Link V2 | For debugging purposes | 1 | 9.37 | Daraz Nepal |
+| Female Header Pins | For GPIO pins | 1 | 0.72 | Daraz Nepal |
+| XT-60 Connector | To connect the battery to the board | 1 | 0.55 | Daraz Nepal |
+| M4 Screws | To secure the components | 1 | 3.97 | Daraz Nepal |
+| MG996R Servos | To move the joints of the robot | 12 | 41.27 | Daraz Nepal |
+| Capacitor | Used in circuit | 1 | 0.65 | Daraz Nepal |
+| Tweezers | To hold tiny 0201 components | 1 | 2.63 | Daraz Nepal |
+| Helping Hand with Magnifier | For soldering and assembly of the microscopic 0201 components | 1 | 11.19 | Daraz Nepal |
+| Solder Paste | For soldering | 1 | 4.28 | Daraz Nepal |
+| Soldering Iron Tip Cleaner | For good soldering | 1 | 2.24 | Daraz Nepal |
+| Solder Wick | To fix bad solder joints | 1 | 1.28 | Daraz Nepal | 
+| Shipping | Shipping costs | 1 | 14.63 | Various |
+| **Total** |  |  | **252.53** |  |
 
 ---
 

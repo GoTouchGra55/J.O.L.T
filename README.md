@@ -131,24 +131,20 @@ In progress...
 
 | Name | Purpose | Quantity | Total Cost (USD) | Distributor |
 |------|---------|---------:|-----------------:|------------|
-| Brass inserts | To secure the screws | 1 | 8.93 | Daraz Nepal |
-| Metal Servo Horns | To connect servo with the linkages | 1 | 9.22 | Daraz Nepal |
-| Bearings | To ensure smooth movement | 1 | 5.86 | Daraz Nepal |
-| 0201 Resistors | Used in circuit | 1 | 3.97 | Daraz Nepal |
-| Devboard PCB | The brains and the body of the quadruped | 1 | 131.77 | JLCPCB |
-| ST-Link V2 | For debugging purposes | 1 | 9.37 | Daraz Nepal |
-| Female Header Pins | For GPIO pins | 1 | 0.72 | Daraz Nepal |
-| XT-60 Connector | To connect the battery to the board | 1 | 0.55 | Daraz Nepal |
-| M4 Screws | To secure the components | 1 | 3.97 | Daraz Nepal |
-| MG996R Servos | To move the joints of the robot | 12 | 41.27 | Daraz Nepal |
+| Brass inserts | To secure the screws | 1 | 4.21 | Daraz Nepal |
+| Metal Servo Horns | To connect servo with the linkages | 2 | 18.35 | Daraz Nepal |
+| Bearings | To ensure smooth movement | 1 | 5.47 | Daraz Nepal |
+| 0603 Resistors | Used in circuit | 1 | 4.58 | Daraz Nepal |
+| Devboard PCB | The brains and the body of the quadruped | 1 | 135.41 | JLCPCB |
+| Female Header Pins | For GPIO pins | 1 | 0.71 | Daraz Nepal |
+| XT-60 Connector | To connect the battery to the board | 1 | 0.54 | Daraz Nepal |
+| M4 Screws | To secure the components | 1 | 3.96 | Daraz Nepal |
+| MG996R Servos | To move the joints of the robot | 12 | 41.08 | Daraz Nepal |
 | Capacitor | Used in circuit | 1 | 0.65 | Daraz Nepal |
-| Tweezers | To hold tiny 0201 components | 1 | 2.63 | Daraz Nepal |
-| Helping Hand with Magnifier | For soldering and assembly of the microscopic 0201 components | 1 | 11.19 | Daraz Nepal |
-| Solder Paste | For soldering | 1 | 4.28 | Daraz Nepal |
-| Soldering Iron Tip Cleaner | For good soldering | 1 | 2.24 | Daraz Nepal |
-| Solder Wick | To fix bad solder joints | 1 | 1.28 | Daraz Nepal | 
-| Shipping | Shipping costs | 1 | 14.63 | Various |
-| **Total** |  |  | **252.53** |  |
+| Tweezers | To hold tiny 0201 components | 1 | 2.62 | Daraz Nepal |
+| Solder Paste | For soldering | 1 | 4.26 | Daraz Nepal |
+| Shipping | Shipping costs | 1 | 26.81 | Daraz Nepal + JLCPCB |
+| **Total** |  |  | **248.65** |  |
 
 ---
 

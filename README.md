@@ -41,6 +41,8 @@ I won't bother explaining the physics here but, you can do your own research on 
 *For those interested in the engineering principles, you can read more about why this geometry is superior for weight-to-strength ratios here: 
 https://www.youtube.com/watch?v=Hn_iozUo9m4*
 
+.stl files can be found at ![Print_Files](hardware/Print_Files)
+
 ---
 
 ## System Architecture
